@@ -1,5 +1,7 @@
 package exercise1;
 
+import exercise2.Payable;
+
 public abstract class Employee {
 	private String name;
 
